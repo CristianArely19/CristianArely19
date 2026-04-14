@@ -44,7 +44,7 @@ Actualmente desarrollo automatización básica con Selenium y Python.
 • Validación de status codes (200, 400, etc.)  
 • Verificación de respuestas y estructura de datos  
 • Identificación de errores en endpoints  
-• Documentación de pruebas y resultados   
+• Documentación de pruebas y resultados    
 ---
 
 ## 🎯 Objetivo
