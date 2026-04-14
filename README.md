@@ -45,6 +45,7 @@ Actualmente desarrollo automatización básica con Selenium y Python.
 • Verificación de respuestas y estructura de datos  
 • Identificación de errores en endpoints  
 • Documentación de pruebas y resultados    
+
 ---
 
 ## 🎯 Objetivo
