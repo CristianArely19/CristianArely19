@@ -1,8 +1,7 @@
 # 👋 Hola, soy Cristian Arely
 
 QA Engineer Jr con formación en TripleTen e Ingeniería en Sistemas.  
-Experiencia en testing manual, validación funcional y pruebas de APIs con Postman.
-
+Experiencia en testing manual, validación funcional y pruebas de APIs con Postman, enfocada en la detección de errores y aseguramiento de la calidad en sistemas reales.  
 Actualmente desarrollo automatización básica con Selenium y Python.
 
 ---
@@ -23,9 +22,9 @@ Actualmente desarrollo automatización básica con Selenium y Python.
 🔗 https://github.com/CristianArely19/qa-project-Urban-Grocers-app-es
 
 • Diseño de casos de prueba basados en requerimientos  
-• Pruebas funcionales (positivas y negativas)  
+• Ejecución de pruebas funcionales (positivas y negativas)  
 • Validación de endpoints y lógica de negocio  
-• Documentación de resultados y hallazgos  
+• Identificación y documentación de errores detectados   
 
 ---
 
@@ -43,8 +42,9 @@ Actualmente desarrollo automatización básica con Selenium y Python.
 
 • Pruebas de API utilizando Postman  
 • Validación de status codes (200, 400, etc.)  
+• Verificación de respuestas y estructura de datos  
 • Identificación de errores en endpoints  
-• Documentación de pruebas y resultados  
+• Documentación de pruebas y resultados   
 ---
 
 ## 🎯 Objetivo
