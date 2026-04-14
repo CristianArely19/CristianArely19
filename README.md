@@ -1,30 +1,58 @@
-# ¡Hola! Soy Cristian Arely 👋
+# 👋 Hola, soy Cristian Arely
 
-QA Engineer en formación con interés en pruebas funcionales, análisis de requisitos y API Testing.  
-También practico desarrollo front-end básico con HTML, CSS, JavaScript y Git/GitHub como parte de mi proceso de crecimiento técnico.
+QA Engineer Jr con formación en TripleTen e Ingeniería en Sistemas.  
+Experiencia en testing manual, validación funcional y pruebas de APIs con Postman.
+
+Actualmente desarrollo automatización básica con Selenium y Python.
 
 ---
 
-## 🔧 Tecnologías que practico
-- Pruebas manuales
-- Postman (API Testing)
-- JSON / HTTP Methods
-- Jira (documentación de bugs)
-- HTML / CSS / JavaScript
-- Git y GitHub
+## 🔧 Tecnologías y herramientas
+
+• Testing manual  
+• Postman (API Testing)  
+• Jira (gestión de bugs)  
+• Selenium (básico)  
+• Git & GitHub  
 
 ---
 
 ## 📂 Proyectos destacados
-- **Pruebas API con Postman (TripleTen)**  
-- **APS4 SAT – BSS (Soporte Técnico)**  
-- **Mini Helpdesk Interno – SSPC (Servicio Social)**  
-- **APP Test – React (estructura inicial)**  
-- **Prácticas front-end (HTML, CSS y JS)**  
+
+### 📌 Urban Grocers – QA Testing
+🔗 https://github.com/CristianArely19/qa-project-Urban-Grocers-app-es
+
+• Diseño de casos de prueba basados en requerimientos  
+• Pruebas funcionales (positivas y negativas)  
+• Validación de endpoints y lógica de negocio  
+• Documentación de resultados y hallazgos  
 
 ---
 
-## 🎯 Objetivo actual
-Fortalecer mi criterio QA, mejorar mis pruebas funcionales y de API y seguir construyendo proyectos que reflejen mi avance profesional.
+### 📌 Urban Routes – Testing funcional
+🔗 https://github.com/CristianArely19/qa-project-Urban-Routes-es
 
-¡Gracias por visitar mi perfil! ✨
+• Validación de flujos de usuario  
+• Pruebas de interfaz y comportamiento  
+• Identificación de errores en navegación  
+
+---
+
+### 📌 API Testing – Postman
+🔗https://github.com/CristianArely19/api_stand_tests
+
+• Pruebas de API utilizando Postman  
+• Validación de status codes (200, 400, etc.)  
+• Identificación de errores en endpoints  
+• Documentación de pruebas y resultados  
+---
+
+## 🎯 Objetivo
+
+Desarrollarme como QA Engineer, fortaleciendo testing manual, APIs y automatización.
+
+---
+
+## 📫 Contacto
+
+LinkedIn: www.linkedin.com/in/cristian-arely-crz-nv
